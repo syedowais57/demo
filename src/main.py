@@ -6,7 +6,7 @@ def main() -> None:
     name = "John"
     print(greet(name))
     print(format_user_message(name))
-
+DEFAULT_VALUE = "John"
 def handler(name: str) -> None:
     print(greet(name))
 
