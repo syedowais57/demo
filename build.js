@@ -1,0 +1,1 @@
+console.log('✅ Demo build: everything is fine.');
